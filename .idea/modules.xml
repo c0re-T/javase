@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionSec/CollectionSec.iml" filepath="$PROJECT_DIR$/CollectionSec/CollectionSec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOSec/IOSec.iml" filepath="$PROJECT_DIR$/IOSec/IOSec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Internet/Internet.iml" filepath="$PROJECT_DIR$/Internet/Internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewFeatures/NewFeatures.iml" filepath="$PROJECT_DIR$/NewFeatures/NewFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase.iml" filepath="$PROJECT_DIR$/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wait_notify/wait_notify.iml" filepath="$PROJECT_DIR$/wait_notify/wait_notify.iml" />
+    </modules>
+  </component>
+</project>
